@@ -1,5 +1,4 @@
 📁 Repository Structure
-
 game-panel/
 ├── backend/
 │   ├── src/
